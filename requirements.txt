@@ -1,4 +1,4 @@
-Python == 3.9.0
+Python == 3.6.8
 Flask == 2.0.1
 Werkzeug == 2.0.1
 pandas ==1.2.4
